@@ -1,4 +1,4 @@
 # newProject
 
-This project was created from local system
-Created by Prudvi
+This project was created from local system.
+Created by Prudvi.
